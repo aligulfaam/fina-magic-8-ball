@@ -1,0 +1,50 @@
+body { 
+    background-image: url("https://www.kindpng.com/picc/m/148-1480942_william-shakespeare-transparent-william-shakespeare-png-png-download.png");
+    background-size: 150px;
+    background-repeat: repeat;
+    text-align: center;
+    margin: auto;
+}
+button:hover{
+    background-color: maroon;
+    color: white;
+    padding: auto;
+}
+button{
+    color: maroon;
+    background-color: white;
+    text-align: center;
+    font-size: 200%;
+    padding: auto;
+}
+input{
+    color: maroon;
+    background-color: white;
+    max-width: 10000px;
+    text-align: center;
+    font-size: 200%;
+}
+h1, h2, h3{
+    color: maroon;
+    background-color: white;    
+    text-align: center;
+    font-size: 300%;
+    margin-top: 60px;
+} 
+p{
+    color: maroon;
+    background-color: white;
+    text-align: center;
+    font-size: 200%;
+}
+.content{
+     max-width: 500px;
+     margin: auto;
+}
+#ninjaFiles{
+    text-align: left;
+    color: White;
+    background-color: white;
+    align-items: left;
+
+}
